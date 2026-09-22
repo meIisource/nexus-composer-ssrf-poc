@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "x/z": [
+      {
+        "name": "x/z",
+        "version": "1.0.0",
+        "dist": {
+          "type": "zip",
+          "url": "http://10.4.0.1:18080/private-x-z-1.0.0.zip"
+        }
+      }
+    ]
+  }
+}
