@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "x/live": [
+      {
+        "name": "x/live",
+        "version": "1.0.0",
+        "dist": {
+          "type": "zip",
+          "url": "http://127.0.0.1:8081/repository/codex-composer-private/private-x-live-1.0.0.zip"
+        }
+      }
+    ]
+  }
+}
