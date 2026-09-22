@@ -6,7 +6,7 @@
         "version": "1.0.0",
         "dist": {
           "type": "zip",
-          "url": "http://127.0.0.1:8081/service/rest/v1/status"
+          "url": "http://10.4.0.1:18080/private-x-y-1.0.0.zip"
         }
       }
     ]
